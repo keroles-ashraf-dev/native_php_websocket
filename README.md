@@ -4,3 +4,4 @@
 
 ### just extend WebSocket class and override abstract methods
 ### [onConnect, onMessage, onDisconnect]
+### don't forget to call run method
