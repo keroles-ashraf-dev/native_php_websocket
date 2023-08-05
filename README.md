@@ -1,7 +1,8 @@
-# pure_php_websocket
+# Native php websocket
 
-## simple pure php websocket
+## Usage:
 
-### just extend WebSocket class and override abstract methods
-### [onConnect, onMessage, onDisconnect]
-### don't forget to call run method
+- extend WebSocket abstract class
+- override abstract methods [onConnect, onMessage, onDisconnect]
+
+> don't forget to call run method
